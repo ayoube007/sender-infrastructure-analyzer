@@ -38,7 +38,7 @@ Then open http://localhost:8000 in your browser.
 
 - [ ] BIMI check
 - [ ] MTA-STS and TLS-RPT checks
-- [ ] Exportable reports (JSON/CSV)
+- [ ] CSV export
 - [ ] Automated tests
 
 ## Contributing
